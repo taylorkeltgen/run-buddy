@@ -58,7 +58,7 @@ section {
     padding: 60px;
     /* background-image: url("../images/hero-bg.jpeg"); */
 }
-/* Hero style Start */
+/* Homepage - Hero style Start */
 .hero {
     background-image: url("../images/hero-bg.jpeg");
     height: 600px;
@@ -203,9 +203,6 @@ h3 {
     width: 400px;
     height: 400px;
   }
-  /* .contact-info div {
-
-  } */
   .contact-info div {
     width: 410px;
     display: inline-block;
